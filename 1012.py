@@ -14,6 +14,8 @@ quadrado = b * b
 
 retangulo = a * b
 
+#Prints dos resultados#
+
 print("TRIANGULO: {0:.3f}".format(triangulo))
 print("CIRCULO: {0:.3f}".format(circulo))
 print("TRAPEZIO: {0:.3f}".format(trapezio))
