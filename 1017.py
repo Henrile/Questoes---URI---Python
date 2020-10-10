@@ -1,4 +1,5 @@
 tempo = int(input())
+idade = int(input())
 velocidade = int(input())
 
 consumo = (tempo * velocidade) / 12
